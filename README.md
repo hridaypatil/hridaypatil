@@ -44,6 +44,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hridaypatil&show_icons=true" />
-</picture><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridaypatil&show_icons=true&locale=en&layout=compact" alt="hridaypatil" /></p>
-<p></p>
+</picture></p>
 
