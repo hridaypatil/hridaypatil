@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hridaynathpatil1@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/15M0TVe26rcBrv4m9IKlKvmTRoIK8gknf/view?usp=sharing)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g1ok0L4zbW-Co_MexT7p9TwZrTV9PEEm/view?usp=drive_link]
 
 - ⚡ Fun fact **I am Very Serious**
 
