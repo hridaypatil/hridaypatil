@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridaynath Patil</h1>
 <h3 align="center">A passionate Web Developer & Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridaypatil&label=Profile%20views&color=0e75b6&style=flat" alt="hridaypatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridaypatil" alt="hridaypatil" /></a> </p>
 
 - 🔭 I’m currently working on **FOOD SEVA**
 
@@ -26,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hridaynathpatil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridaynathpatil1" height="30" width="40" /></a>
-<a href="https://instagram.com/patil_80008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil_80008" height="30" width="40" /></a>
+<a href="https://instagram.com/hridaynath.patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil_80008" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hridaynathpatil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hridaynathpatil1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hridaynathpatil1073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hridaynathpatil1073" height="30" width="40" /></a>
 </p>
